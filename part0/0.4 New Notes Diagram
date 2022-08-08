@@ -1,0 +1,13 @@
+title Part0.4 New Note
+
+client->server: https://studies.cs.helsinki.fi/exampleapp/new_note
+note right of server: adds new note to data.json
+server->client: https://studies.cs.helsinki.fi/exampleapp/notes
+note right of server: "notes" = "html bit of code"
+server->client: Get request main.css "/exampleapp/main.css"
+note right of server: get styles for main page
+server->client: Get request main.js "/exampleapp/main.js"
+note right of server: get js scripts for main page
+server->client: Get request data.json "/exampleapp/main.js"
+note right of server: request list of notes left on page
+server->client: Get request favicon.ico "	/favicon.ico"
