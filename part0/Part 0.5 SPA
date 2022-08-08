@@ -1,0 +1,7 @@
+title Part0.5 New Note SPA-v
+ 
+server->client: GET https://studies.cs.helsinki.fi/exampleapp/spa
+server->client: GET https://studies.cs.helsinki.fi/exampleapp/spa.js
+server->client: GET https://studies.cs.helsinki.fi/exampleapp/main.css
+server->client: GET https://studies.cs.helsinki.fi/exampleapp/data.json
+server->client: GET https://studies.cs.helsinki.fi/exampleapp/favicon.ico
