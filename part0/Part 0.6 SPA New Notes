@@ -1,4 +1,4 @@
-title Part0.5 New Note SPA-v
+title Part0.6 New Note SPA-v
  
 client->server: POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
 note right of server: Note Created!
